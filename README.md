@@ -1,5 +1,6 @@
-# Full-stack Web & Blockchain Engineer 👋
-## I'm always aiming to help my clients to use my web application to save time and money and manage their business efficiently.
+# Experienced Full-stack Engineer 👋
+## About Me
+### I'm always aiming to help my clients to use my web application to save time and money and manage their business efficiently.
 
 ## Technical Skills
 ### ✔ Languages
@@ -17,7 +18,6 @@ MongoDB, MySQL, PostgreSQL, Firebase, Amazon Dynamo DB
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ktopsolutions&column=8)](https://github-profile-trophy.vercel.app/?username=ktopsolutions&column=8)
-
 
 ## Github Status
 <div>
