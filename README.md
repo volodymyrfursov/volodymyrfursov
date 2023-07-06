@@ -17,10 +17,10 @@ MongoDB, MySQL, PostgreSQL, Firebase, Amazon Dynamo DB
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ktopsolutions&column=8)](https://github-profile-trophy.vercel.app/?username=ktopsolutions&column=8)
+[![trophy](https://github-profile-trophy.vercel.app/?username=volodymyrfursov&column=8)](https://github-profile-trophy.vercel.app/?username=volodymyrfursov&column=8)
 
 ## Github Status
 <div>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ktopsolutions&count_private=true" width="50.25%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ktopsolutions&layout=compact" width="42%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=volodymyrfursov&count_private=true" width="50.25%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=volodymyrfursov&layout=compact" width="42%"/>
 </div>
